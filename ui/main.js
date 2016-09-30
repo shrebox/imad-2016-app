@@ -1,4 +1,4 @@
-console.log('Loaded!');
+/*console.log('Loaded!');
 
 // change main-text
 var element = document.getElementById('main-text');
@@ -19,4 +19,7 @@ function moveRight(){
 img.onclick  = function () {
    
    var interval = setInterval(moveRight,100);
-} ;
+} ;*/
+
+//counter code
+
