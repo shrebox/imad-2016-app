@@ -9,7 +9,7 @@ element.innerHTML = 'Hey edited text!';
 
 var img = document.getElementById('madi');
 
-var maginLeft = 0;
+var marginLeft = 0;
 
 function moveRight(){
      marginLeft = marginLeft + 10;
