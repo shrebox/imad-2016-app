@@ -33,7 +33,7 @@ button.onclick = function(){
     // Capture the request and store it in a variable
     request.onreadystatechange = function(){
       
-      if(request.readystate === XMLHttpRequest.DONE){
+      if(request.readyState === XMLHttpRequest.DONE){
           
           if(request.status === 200)
           {
